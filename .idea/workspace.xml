@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e4f2829-bc8c-4572-8087-a5c39f3c9e6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TestCases/TC2.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TestFinalProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TestFinalProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/Amazon.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +103,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="719" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578517714994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1578517714994" />
     <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578516914566">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
