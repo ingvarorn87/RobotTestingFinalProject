@@ -7,6 +7,7 @@ ${browser}  chrome
 ${url}  https://www.nopcommerce.com
 *** Test Cases ***
 LoginTest
+
     #create webdriver  chrome    executable_path="C:\Users\Ingvar\Downloads\chromedriver_win32\chromedriver.exe"
     open browser    ${url}      ${browser}
     logintoApplication

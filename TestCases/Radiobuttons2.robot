@@ -9,14 +9,12 @@ ${url}  http://www.practiceselenium.com/practice-form.html
 TestingInputBox
     #Same As the radiobuttons but using keywords
     open browser    ${url}      ${browser}
-
     InputText
     SelectRadioButtons
     InputTextToDateBox
     SelectChecks
     SelectFromListBox1
     SelectFromListBox2
-
     close browser
 
 
