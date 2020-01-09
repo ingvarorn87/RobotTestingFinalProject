@@ -24,7 +24,7 @@ TestingInputBox
     #sleep   1
     select from list by index   continents   6
     select from list by label   selenium_commands     Switch Commands
-    select from list by label   selenium_commands     WebElements Commands
+    #select from list by label   selenium_commands     WebElements Commands
     unselect from list by label   selenium_commands     Switch Commands
 
     close browser
